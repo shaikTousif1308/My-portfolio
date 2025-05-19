@@ -33,5 +33,42 @@ This is a responsive and animated personal portfolio website built using **HTML*
 
 ---
 
-## 📁 Project Structure
+portfolio-website/<br>
+├── index.html &nbsp;&nbsp;&nbsp;&nbsp;# Main HTML file (rename from porfolio.html)<br>
+├── portfolio.css &nbsp;&nbsp;&nbsp;&nbsp;# Custom styles (layout, animations, responsiveness)<br>
+├── portfolio.js &nbsp;&nbsp;&nbsp;&nbsp;# JavaScript for interactivity (typing, AOS, etc.)<br>
+├── gradient.png &nbsp;&nbsp;&nbsp;&nbsp;# Optional background or decorative image<br>
+├── README.md &nbsp;&nbsp;&nbsp;&nbsp;# Project documentation (you're reading it!)<br>
+├── LICENSE &nbsp;&nbsp;&nbsp;&nbsp;# Optional: Open-source license (MIT)<br>
+└── .gitignore &nbsp;&nbsp;&nbsp;&nbsp;# Optional: Files/folders to exclude from git
 
+
+
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone this repository:
+
+git clone (https://github.com/yourusername/your-repo-name.git)
+
+2. Open portfolio.html in your preferred browser.
+
+    No backend or build steps are required.
+
+🙋‍♂️ About Me
+
+    I'm Shaik Tousifur Rehaman, a passionate full-stack developer and CSE(AI&ML) student, focused on building impactful and innovative solutions. This site reflects my journey and projects as a developer.
+
+📬 Contact
+
+    📧 Email: tousifrehaman2002@gmail.com
+
+    📱 Phone: +91 01234 56789
+
+    🌐 Linktree
+
+    💼 LinkedIn
+
+    🐦 Twitter/X
