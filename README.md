@@ -7,7 +7,7 @@ This is a responsive and animated personal portfolio website built using **HTML*
 ## 📸 Demo
 
 🚀 [Live Demo](https://portfolio258.ccbp.tech/)
-📄 [Resume](https://drive.google.com/file/d/1XSz5VX6b1MTIJoysxL1tjrMQYU1d-mHV/view?usp=drive_link)
+📄 [Resume](https://drive.google.com/file/d/1PNtnPwiZUBO7MBM1n7HClIDKS_O0ZROk/view)
 
 ---
 
