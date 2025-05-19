@@ -65,10 +65,7 @@ git clone (https://github.com/shaikTousif1308/My-portfolio)
 
     📧 Email: tousifrehaman2002@gmail.com
 
-    📱 Phone: +91 01234 56789
+    🌐 Linktree--(https://linktr.ee/tousifurrehaman)
 
-    🌐 Linktree
+    💼 LinkedIn--(https://www.linkedin.com/in/shaiktousifurrehaman/)
 
-    💼 LinkedIn
-
-    🐦 Twitter/X
