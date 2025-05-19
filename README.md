@@ -6,7 +6,7 @@ This is a responsive and animated personal portfolio website built using **HTML*
 
 ## 📸 Demo
 
-🚀 [Live Demo](https://your-deployed-site-link.com)  
+🚀 [Live Demo](https://portfolio258.ccbp.tech/)
 📄 [Resume](https://drive.google.com/file/d/1XSz5VX6b1MTIJoysxL1tjrMQYU1d-mHV/view?usp=drive_link)
 
 ---
@@ -15,7 +15,7 @@ This is a responsive and animated personal portfolio website built using **HTML*
 
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Frameworks & Libraries**: Bootstrap 4 & 5, Boxicons, Typed.js, AOS (Animate On Scroll)
-- **3D Integration**: [Spline 3D Viewer](https://spline.design/)
+- **3D Integration**: [Spline 3D Viewer](https://app.spline.design/file/2326461b-aee1-4da3-a818-ea2a30202df0)
 - **Design Tools**: Figma, Power BI (inferred from About section)
 
 ---
@@ -51,7 +51,7 @@ portfolio-website/<br>
 
 1. Clone this repository:
 
-git clone (https://github.com/yourusername/your-repo-name.git)
+git clone (https://github.com/shaikTousif1308/My-portfolio)
 
 2. Open portfolio.html in your preferred browser.
 
